@@ -19,3 +19,12 @@ drawing.children.push(group);
 
 console.log(drawing.toString());
 // node ./composition/example/udemy/geometric-shapes/index.js 
+/**
+ * Output
+    * Group0
+    * Red Square
+    * Yellow Circle
+    * Group1
+    ** Blue Circle
+    ** Blue Square
+ */
