@@ -1,0 +1,24 @@
+{"_id":"4CyYsjQXqLSvBcEY","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"GB5GWSrCM0HuJ5FH","name":"ThreadScheduler","kind":"Class","position":{"x":519.484375,"y":500},"discriminator":"Class","stereotypes":[],"customDimension":{"width":276.640625,"height":76},"isDeleted":false}
+{"_id":"75rcNLm66exYijNV","name":"any","kind":"StandardType","visibility":"public"}
+{"_id":"7ZCLszzoK0ZclVv5","name":"date","kind":"StandardType","visibility":"public"}
+{"_id":"BoVzWqJ9WoavuT74","name":"","diagramId":"GB5GWSrCM0HuJ5FH","visibility":"public","kind":"Relationship","relationshipKind":"Inheritance","anchorPoints":[],"source":{"id":"F6rAVACOADx6qqmA","isAutoDocking":true},"target":{"id":"UpTeJfXPQ7DUXcrC","isAutoDocking":true},"isDeleted":false}
+{"_id":"BpqycjOi7QnQJVeq","name":"uses","diagramId":"GB5GWSrCM0HuJ5FH","visibility":"public","kind":"Relationship","relationshipKind":"Usage","anchorPoints":[{"x":846.125,"y":538,"relationId":"BpqycjOi7QnQJVeq","id":0},{"relationId":"BpqycjOi7QnQJVeq","id":1,"x":970.125,"y":542}],"source":{"id":"4CyYsjQXqLSvBcEY","isAutoDocking":true},"target":{"id":"UpTeJfXPQ7DUXcrC","isAutoDocking":true}}
+{"_id":"F6rAVACOADx6qqmA","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"GB5GWSrCM0HuJ5FH","name":"WindowsScheduler","kind":"Class","position":{"x":655.328125,"y":356},"discriminator":"Class","stereotypes":[]}
+{"_id":"FmZmYfHbPgEWaqI5","name":"boolean","kind":"StandardType","visibility":"public"}
+{"_id":"GB5GWSrCM0HuJ5FH","name":"new diagram","kind":"ClassDiagram","titlePosition":{"x":550,"y":24}}
+{"_id":"JmxVJEgse3s3VuOm","name":"","diagramId":"GB5GWSrCM0HuJ5FH","visibility":"public","kind":"Relationship","relationshipKind":"Inheritance","anchorPoints":[],"source":{"id":"eVSdb2MemrRWT1bs","isAutoDocking":true},"target":{"id":"4CyYsjQXqLSvBcEY","isAutoDocking":true},"isDeleted":false}
+{"_id":"Jy58pdDGxNarrMTq","name":"void","kind":"StandardType","visibility":"public"}
+{"_id":"MEVhmeA074ZLxzK3","name":"time","kind":"StandardType","visibility":"public"}
+{"_id":"NzSaDBiqbq3XZjiZ","name":"platformScheduler","isAbstract":false,"type":"UpTeJfXPQ7DUXcrC","isReadOnly":false,"visibility":"public","isStatic":false,"classifierId":"4CyYsjQXqLSvBcEY","discriminator":"Property","kind":"Property","index":0}
+{"_id":"UpTeJfXPQ7DUXcrC","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"GB5GWSrCM0HuJ5FH","name":"IPlatformScheduler","kind":"Class","position":{"x":896.125,"y":356},"discriminator":"Class","stereotypes":[]}
+{"_id":"Vn3f06VE30d4GrrB","name":"","diagramId":"GB5GWSrCM0HuJ5FH","visibility":"public","kind":"Relationship","relationshipKind":"Inheritance","anchorPoints":[{"x":846.125,"y":234,"relationId":"Vn3f06VE30d4GrrB","id":0},{"x":846.125,"y":378,"relationId":"Vn3f06VE30d4GrrB","id":1}],"source":{"id":"xut2BHUg8mquSoaO","isAutoDocking":true},"target":{"id":"UpTeJfXPQ7DUXcrC","isAutoDocking":true}}
+{"_id":"YuLxvsCR9Csrexs9","name":"float","kind":"StandardType","visibility":"public"}
+{"_id":"aZ8KiazSMVOagb6D","name":"","diagramId":"GB5GWSrCM0HuJ5FH","visibility":"public","kind":"Relationship","relationshipKind":"Inheritance","anchorPoints":[],"source":{"id":"F6rAVACOADx6qqmA","isAutoDocking":true},"target":{"id":"UpTeJfXPQ7DUXcrC","isAutoDocking":true}}
+{"_id":"cBCIJFOFtIKOZPFy","name":"char","kind":"StandardType","visibility":"public"}
+{"_id":"eVSdb2MemrRWT1bs","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"GB5GWSrCM0HuJ5FH","name":"CooperativeThreadScheduler","kind":"Class","position":{"x":212,"y":516},"discriminator":"Class","stereotypes":[]}
+{"_id":"gJkNcOIJD7LmRy8x","name":"double","kind":"StandardType","visibility":"public"}
+{"_id":"ijmodSUyTAt9sbt3","name":"int","kind":"StandardType","visibility":"public"}
+{"_id":"jKjNsKxs4lNE3T0z","name":"string","kind":"StandardType","visibility":"public"}
+{"_id":"jW8NLtD8GkHkyXWM","name":"","diagramId":"GB5GWSrCM0HuJ5FH","visibility":"public","kind":"Relationship","relationshipKind":"Inheritance","anchorPoints":[{"x":469.484375,"y":394,"relationId":"jW8NLtD8GkHkyXWM","id":0},{"x":469.484375,"y":538,"relationId":"jW8NLtD8GkHkyXWM","id":1}],"source":{"id":"xyvFxDmjO7E6xsPY","isAutoDocking":true},"target":{"id":"4CyYsjQXqLSvBcEY","isAutoDocking":true},"isDeleted":false}
+{"_id":"xut2BHUg8mquSoaO","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"GB5GWSrCM0HuJ5FH","name":"UnixScheduler","kind":"Class","position":{"x":685.1875,"y":212},"discriminator":"Class","stereotypes":[]}
+{"_id":"xyvFxDmjO7E6xsPY","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"GB5GWSrCM0HuJ5FH","name":"PreemptiveThreadScheduler","kind":"Class","position":{"x":213.640625,"y":372},"discriminator":"Class","stereotypes":[]}

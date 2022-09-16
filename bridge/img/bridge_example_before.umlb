@@ -1,0 +1,24 @@
+{"_id":"59euLtAYKSA53lGG","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"pjcP91aSpa4SMIOY","name":"UnixCTS","kind":"Class","position":{"x":243.65625,"y":504},"discriminator":"Class","stereotypes":[]}
+{"_id":"9wQkU0uD0z3HhcvI","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"pjcP91aSpa4SMIOY","name":"ThreadScheduler","kind":"Class","position":{"x":725.203125,"y":214},"discriminator":"Class","stereotypes":[]}
+{"_id":"DDummtxQw5J2y73t","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"pjcP91aSpa4SMIOY","name":"CooperativeThreadScheduler","kind":"Class","position":{"x":417.71875,"y":503},"discriminator":"Class","stereotypes":[]}
+{"_id":"EDLVz922Ap6YA3qY","name":"","diagramId":"pjcP91aSpa4SMIOY","visibility":"public","kind":"Relationship","relationshipKind":"Inheritance","anchorPoints":[{"x":367.71875,"y":668,"relationId":"EDLVz922Ap6YA3qY","id":0},{"x":367.71875,"y":525,"relationId":"EDLVz922Ap6YA3qY","id":1}],"source":{"id":"OiNmQUpBQEwYy3KA","isAutoDocking":true},"target":{"id":"DDummtxQw5J2y73t","isAutoDocking":true}}
+{"_id":"JfzEy9pcR9Esy5bH","name":"","diagramId":"pjcP91aSpa4SMIOY","visibility":"public","kind":"Relationship","relationshipKind":"Inheritance","anchorPoints":[],"source":{"id":"59euLtAYKSA53lGG","isAutoDocking":true},"target":{"id":"DDummtxQw5J2y73t","isAutoDocking":true}}
+{"_id":"OiNmQUpBQEwYy3KA","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"pjcP91aSpa4SMIOY","name":"WindowsRTS","kind":"Class","position":{"x":212.78125,"y":646},"discriminator":"Class","stereotypes":[],"customDimension":{"width":104.9375,"height":42}}
+{"_id":"QdjD2WljQGc0ozj6","name":"boolean","kind":"StandardType","visibility":"public"}
+{"_id":"RiUJc7hAzTvMHJ8N","name":"","diagramId":"pjcP91aSpa4SMIOY","visibility":"public","kind":"Relationship","relationshipKind":"Inheritance","anchorPoints":[{"x":675.203125,"y":525,"relationId":"RiUJc7hAzTvMHJ8N","id":0},{"x":675.203125,"y":236,"relationId":"RiUJc7hAzTvMHJ8N","id":1}],"source":{"id":"DDummtxQw5J2y73t","isAutoDocking":true},"target":{"id":"9wQkU0uD0z3HhcvI","isAutoDocking":true}}
+{"_id":"T1AVt0SiSsjktj6A","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"pjcP91aSpa4SMIOY","name":"UnixPTS","kind":"Class","position":{"x":241.859375,"y":212},"discriminator":"Class","stereotypes":[],"customDimension":{"width":75.859375,"height":48}}
+{"_id":"Wl4GzoI9YMItrShd","name":"char","kind":"StandardType","visibility":"public"}
+{"_id":"YOxJVx1Yp99Uz5wP","name":"","diagramId":"pjcP91aSpa4SMIOY","visibility":"public","kind":"Relationship","relationshipKind":"Inheritance","anchorPoints":[],"source":{"id":"eudVKbUoOcUJBcc4","isAutoDocking":true},"target":{"id":"9wQkU0uD0z3HhcvI","isAutoDocking":true}}
+{"_id":"cSACSnymbAYFcDlk","name":"","diagramId":"pjcP91aSpa4SMIOY","visibility":"public","kind":"Relationship","relationshipKind":"Inheritance","anchorPoints":[{"x":367.71875,"y":382,"relationId":"cSACSnymbAYFcDlk","id":0},{"x":367.71875,"y":236,"relationId":"cSACSnymbAYFcDlk","id":1}],"source":{"id":"pO2vryhUNFCzPi1J","isAutoDocking":true},"target":{"id":"eudVKbUoOcUJBcc4","isAutoDocking":true}}
+{"_id":"dsja40nywrAdz33P","name":"time","kind":"StandardType","visibility":"public"}
+{"_id":"e24PzGvlCQmYwqXl","name":"float","kind":"StandardType","visibility":"public"}
+{"_id":"eudVKbUoOcUJBcc4","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"pjcP91aSpa4SMIOY","name":"PreemptiveThreadScheduler","kind":"Class","position":{"x":418.5390625,"y":212.5},"discriminator":"Class","stereotypes":[],"customDimension":{"width":205.84375,"height":47}}
+{"_id":"mIpSXwtJX9qSKZCO","name":"int","kind":"StandardType","visibility":"public"}
+{"_id":"o7W6r6OH4ES8PhhL","name":"string","kind":"StandardType","visibility":"public"}
+{"_id":"oyZQOmMOmdD8TVNq","name":"double","kind":"StandardType","visibility":"public"}
+{"_id":"pO2vryhUNFCzPi1J","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"pjcP91aSpa4SMIOY","name":"WindowsPTS","kind":"Class","position":{"x":212,"y":360},"discriminator":"Class","stereotypes":[],"customDimension":{"width":105.71875,"height":42}}
+{"_id":"pjcP91aSpa4SMIOY","name":"new diagram","kind":"ClassDiagram","titlePosition":{"x":550,"y":24}}
+{"_id":"sD3frLLzcqSimeM3","name":"","diagramId":"pjcP91aSpa4SMIOY","visibility":"public","kind":"Relationship","relationshipKind":"Inheritance","anchorPoints":[],"source":{"id":"T1AVt0SiSsjktj6A","isAutoDocking":true},"target":{"id":"eudVKbUoOcUJBcc4","isAutoDocking":true}}
+{"_id":"tNQRP60RHK3xhFHM","name":"date","kind":"StandardType","visibility":"public"}
+{"_id":"tQULDgVVldPeuVPD","name":"any","kind":"StandardType","visibility":"public"}
+{"_id":"xmTzesW4Ndx6Zgbc","name":"void","kind":"StandardType","visibility":"public"}
